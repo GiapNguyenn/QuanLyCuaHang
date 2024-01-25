@@ -63,6 +63,37 @@ namespace QuanLyCuaHang.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap kisspng_computer_icons_padlock_symbol_5aeae05196e774_7885852215253422896181 {
+            get {
+                object obj = ResourceManager.GetObject("kisspng_computer_icons_padlock_symbol_5aeae05196e774_7885852215253422896181", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap kisspng_computer_icons_user_vector_graphics_male_image_yonghuming_svg_png_icon_free_download_367976_5c7edd789e2eb9_4606551015518181046479 {
+            get {
+                object obj = ResourceManager.GetObject("kisspng_computer_icons_user_vector_graphics_male_image_yonghuming_svg_png_icon_fr" +
+                        "ee_download_367976_5c7edd789e2eb9_4606551015518181046479", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap man_laugh_icon_png_269184 {
+            get {
+                object obj = ResourceManager.GetObject("man_laugh_icon_png_269184", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap mat_hang_dien_tu_nhat_ban_1 {
             get {
                 object obj = ResourceManager.GetObject("mat_hang_dien_tu_nhat_ban_1", resourceCulture);
